@@ -12,3 +12,12 @@ You can switch between your displays with ```Cmd+Shift+Arrow``` or ```Ctrl+Shift
 
 ### Developers
 Clone the repo, install dependencies with ```npm install``` and run with ```npm start```.
+
+### My edits
+Displays currently playing album art with current track position and smooth album to album transitions.
+
+![screenshot](http://i.imgur.com/tXfoJZF.png)
+
+##### Keyboard shortcuts
+```ESC```x2 to quit.
+```Space```x2 for searchbar.

@@ -19,6 +19,63 @@ body {
 	color: #fff;
 }
 
+::-webkit-input-placeholder {
+	color: #8f8f8f;
+}
+
+#confirm-quit {
+	background: rgba(0,0,0,0.7);
+	height: 100%;
+	width:100%;
+	top:0;
+	left:0;
+	position: absolute;
+	text-align: center;
+	padding-top: calc(50vh - 12px);
+	font-size: 24px;
+	opacity: 0;
+	transition: opacity 0.2s ease-out;
+}
+
+#search {
+	width: 600px;
+	height: 50px;
+	background: rgba(18,18,18,0.8);
+	border-radius: 2px;
+	position: absolute;
+	left: 50%;
+	top: 80px;
+	margin-left: -300px;
+	box-sizing: border-box;
+	transition: opacity 0.2s ease-out, transform 0.2s ease-out;
+	opacity: 0;
+	transform: translateY(-15px);
+}
+
+#search.visible {
+	opacity: 1;
+	transform: translateY(0);
+}
+
+#search input {
+	width: 100%;
+	box-sizing: border-box;
+	border: 0px;
+	margin: 0;
+	height: 50px;
+	background: none;
+	color: white;
+	padding-right: 15px;
+	font-size: 16px;
+	font-family: 'Montserrat Light', sans-serif;
+	outline: none;
+}
+
+#search svg {
+	margin: 15px;
+	fill: #8f8f8f;
+}
+
 #loading {
 	margin-top: calc(50vh - 21px);
 	font-size: 42px;

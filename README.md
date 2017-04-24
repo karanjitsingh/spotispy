@@ -20,5 +20,8 @@ Displays currently playing album art with current track position and smooth albu
 ![screenshot](http://i.imgur.com/ylDFADY.png)
 
 ##### Keyboard shortcuts
-```ESC```x2 to quit.
-```Space```x2 for searchbar.
+
+| Shortcut        | Action |
+|-----------------|--------|
+| ```ESC```*x2*   | Quit   |
+| ```Space```*x2* | Search |

@@ -28,5 +28,4 @@ Displays currently playing album art with current track position and smooth albu
 | ```Space```*x2* | Search |
 
 #### Upcoming
-* Play song from search results. Yeah... I've yet to add that.
 * Music visualizations

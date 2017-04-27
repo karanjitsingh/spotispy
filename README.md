@@ -20,9 +20,13 @@ Displays currently playing album art with current track position and smooth albu
 ![screenshot](http://i.imgur.com/g41ozdL.png)
 ![screenshot](http://i.imgur.com/CPf0DbO.png)
 
-##### Keyboard shortcuts
+#### Keyboard shortcuts
 
 | Shortcut        | Action |
 |-----------------|--------|
 | ```ESC```*x2*   | Quit   |
 | ```Space```*x2* | Search |
+
+#### Upcoming
+* Play song from search results. Yeah... I've yet to add that.
+* Music visualizations

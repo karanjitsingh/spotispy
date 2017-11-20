@@ -17,14 +17,12 @@ Clone the repo, install dependencies with ```npm install``` and run with ```npm 
 Displays currently playing album art with current track position and smooth album to album transitions.
 
 ![screenshot](http://i.imgur.com/IlLxrgP.png)
-![screenshot](http://i.imgur.com/1NHXi5p.png)
 
 #### Keyboard shortcuts
 
 | Shortcut        | Action |
 |-----------------|--------|
 | ```ESC```*x2*   | Quit   |
-| ```Space```*x2* | Search |
 
 #### Upcoming
 * Music visualizations

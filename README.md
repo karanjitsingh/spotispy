@@ -26,3 +26,4 @@ Displays currently playing album art with current track position and smooth albu
 
 #### Upcoming
 * Music visualizations
+* Arlbum art local cache

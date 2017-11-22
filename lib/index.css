@@ -55,6 +55,10 @@ body {
 	transition: opacity 1s;
 }
 
+.background[src=""] {
+    display: none;
+}
+
 .cover {
 	transition: opacity 0.3s ease-out;
 	position: absolute;

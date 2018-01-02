@@ -7,13 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "electron lib/main.js"
   },
-  "author": "Tianyi Ma <tn.ma@outlook.com>",
+  "author": "Karan Jit Singh <karan1866@gmail.com>",
   "license": "GPL-2.0",
   "devDependencies": {
     "electron-prebuilt": "^0.36.0"
   },
   "dependencies": {
     "electron-localshortcut": "^0.6.1",
-    "jquery": "^2.2.1"
+    "jquery": "^2.2.4"
   }
 }
